@@ -1,5 +1,5 @@
 # SpannerCloudGame
-Building a game on goole cloud with a spanner 
+Building a game on google cloud with a spanner 
 
 Created four Go services that interact with a regional Spanner database. The first two services, profile-service and matchmaking-service, enable players to sign up and start playing. The second pair of services, item-service and tradepost-service, enable players to acquire items and money, and then list items on the trading post for other players to purchase.
 
